@@ -1,0 +1,13 @@
+ db.json
+ .idea/
+ .deploy_git/
+ package-lock.json
+ .DS_Store
+ .idea/
+ *.log
+ *.iml
+ yarn.lock
+ node_modules/
+ public/
+ *.tmp
+ .ipynb_checkpoints
